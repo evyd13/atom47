@@ -6,4 +6,4 @@ In this repository you will only find a 3d printable case for now. The STL file 
 
 This case should be compatible with the stock Vortex Core assembly as well.
 
-![Atom47 case](photo.png)
+![Atom47 case](photo.jpg)
