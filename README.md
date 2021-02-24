@@ -1,9 +1,5 @@
-# Atom47 case
+# Atom47
 
-In this repository you will only find a 3d printable case for now. The STL file is obviously for use in slicers, but if you wish to make any changes to it you can use the STEP or Fusion archive files. Please read the license before use.
+This is the repository for the Atom47. At the moment you'll find Revision 4 of the PCB, the final plate file and a design for a 3d printed case.
 
-![Atom47 case](preview.png)
-
-This case should be compatible with the stock Vortex Core assembly as well.
-
-![Atom47 case](photo.jpg)
+The Apache2 license apply to all of these works.

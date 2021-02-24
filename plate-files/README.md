@@ -1,0 +1,3 @@
+# Atom47 plate
+
+The two .DXF files are pre-exported from the FreeCAD project file (.FCStd file). This design has been tested in both the 3d printed case and the stock Vortex Core case. I didn't make one file for both the Minitomic and Core layouts, because a plate-mounted stabilizer won't work in a plate that supports more than one bottom row. (And the PCB/case doesn't support PCB-mounted stabilizers)
