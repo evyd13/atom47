@@ -1,0 +1,2809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\Eigen designs\Others\Atom47\rev5\atom47-rev5.kicad_sch</source>
+    <date>Thu Apr 29 15:07:15 2021</date>
+    <tool>Eeschema (5.99.0-10437-g78b555afa2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>atom47-rev5.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fc4b5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fc53b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0334dcb-6d11-4928-bece-bd6d3622c809</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fc5a0</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fea19</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.47u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cb978b1-6948-4fb2-9397-996da93b7453</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa0f2387-1a41-44cc-a555-c9e23c44ac7e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>22u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bcb38fc-1ae2-4c91-a77d-e82c1c4d1e5f</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.47u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef078903-2929-4c69-964c-20f8b10a1dc8</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a5a359-d9e5-4ff5-a6b8-49bae5e4441d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.47u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a907cbf5-eeb5-4415-832d-280e88c7d53d</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f24f767-ba75-4b23-b011-cfebd91d6c33</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.47u</value>
+      <footprint>Keeb_components:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68d1fb47-0fb7-4bbb-9a3b-0c69dacce7b9</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597003d9</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970123e</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701684</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701dda</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597020ac</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970395e</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706cbc</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059708c84</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bae0</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb1c</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb58</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb94</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbd0</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597004b0</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701244</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970168a</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701de0</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597020b2</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059703964</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706cc2</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059708c8a</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bae6</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb22</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb5e</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbd6</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059700531</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701690</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701de6</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597020b8</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970396a</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706cc8</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059708c90</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970baec</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb28</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970124a</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a360c78</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbdc</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970059d</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701250</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701696</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701dec</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597020be</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706cce</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970baf2</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb2e</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb6a</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>Keeb_components:D_SOD-323</footprint>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbe2</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse_Small</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c85b6c1</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Polyfuse_Small</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0cd5df0-d750-4205-bdc8-99cfb37cd829</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_mini_micro_B</value>
+      <footprint>Keeb_components:U-F-M5DD-Y-L</footprint>
+      <libsource lib="keyboard_parts" part="USB_mini_micro_B" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fe30f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>ISP</value>
+      <footprint>Keeb_components:isp_standard</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a55f774</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper</value>
+      <footprint>footprints:reset</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Jumper" description="Jumper, normally closed"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e7a52e7</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596ffbfa</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701220</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701666</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701dbc</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970208e</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059703940</tstamps>
+    </comp>
+    <comp ref="K7">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706c9e</tstamps>
+    </comp>
+    <comp ref="K8">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059708c66</tstamps>
+    </comp>
+    <comp ref="K9">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bac2</tstamps>
+    </comp>
+    <comp ref="K10">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bafe</tstamps>
+    </comp>
+    <comp ref="K11">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb3a</tstamps>
+    </comp>
+    <comp ref="K12">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb76</tstamps>
+    </comp>
+    <comp ref="K13">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbb2</tstamps>
+    </comp>
+    <comp ref="K14">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fffc0</tstamps>
+    </comp>
+    <comp ref="K15">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701226</tstamps>
+    </comp>
+    <comp ref="K16">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970166c</tstamps>
+    </comp>
+    <comp ref="K17">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701dc2</tstamps>
+    </comp>
+    <comp ref="K18">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059702094</tstamps>
+    </comp>
+    <comp ref="K19">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059703946</tstamps>
+    </comp>
+    <comp ref="K20">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706ca4</tstamps>
+    </comp>
+    <comp ref="K21">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059708c6c</tstamps>
+    </comp>
+    <comp ref="K22">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bac8</tstamps>
+    </comp>
+    <comp ref="K23">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb04</tstamps>
+    </comp>
+    <comp ref="K24">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb40</tstamps>
+    </comp>
+    <comp ref="K26">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_175H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbb8</tstamps>
+    </comp>
+    <comp ref="K27">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_175H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597000fa</tstamps>
+    </comp>
+    <comp ref="K29">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701672</tstamps>
+    </comp>
+    <comp ref="K30">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701dc8</tstamps>
+    </comp>
+    <comp ref="K31">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970209a</tstamps>
+    </comp>
+    <comp ref="K32">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970394c</tstamps>
+    </comp>
+    <comp ref="K33">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706caa</tstamps>
+    </comp>
+    <comp ref="K34">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059708c72</tstamps>
+    </comp>
+    <comp ref="K35">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bace</tstamps>
+    </comp>
+    <comp ref="K36">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb0a</tstamps>
+    </comp>
+    <comp ref="K37">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970122c</tstamps>
+    </comp>
+    <comp ref="K38">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb46</tstamps>
+    </comp>
+    <comp ref="K39">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbbe</tstamps>
+    </comp>
+    <comp ref="K40">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059700329</tstamps>
+    </comp>
+    <comp ref="K41">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701232</tstamps>
+    </comp>
+    <comp ref="K42">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701678</tstamps>
+    </comp>
+    <comp ref="K43">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059701dce</tstamps>
+    </comp>
+    <comp ref="K45">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_175H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000597020a0</tstamps>
+    </comp>
+    <comp ref="K47">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_275H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059706cb0</tstamps>
+    </comp>
+    <comp ref="K49">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bad4</tstamps>
+    </comp>
+    <comp ref="K50">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb10</tstamps>
+    </comp>
+    <comp ref="K51">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bb4c</tstamps>
+    </comp>
+    <comp ref="K52">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005970bbc4</tstamps>
+    </comp>
+    <comp ref="K38-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24273f84-76cc-44fd-b565-153bb389e7ce</tstamps>
+    </comp>
+    <comp ref="K39-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d3d5aff-de8f-4ff7-8489-2b3811bf23fe</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fed14</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fec97</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fcf4c</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fd444</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>20k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe0039ea-2310-48a9-87dc-df71228ecc7f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fe7ce3c-fef4-47f5-90dd-c147378b3ef1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e9d2161-18b4-4807-bb4e-69223012b08e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>904730e8-c7be-489c-9391-7db87634b00c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2k</value>
+      <footprint>Keeb_components:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32c7b888-3978-42b3-bbf4-8738bb4e7090</tstamps>
+    </comp>
+    <comp ref="RGB1">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ff72fb1-7aba-4609-9845-520de41cd14b</tstamps>
+    </comp>
+    <comp ref="RGB2">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9153ee96-c693-49e7-a6a9-03d12efc03a4</tstamps>
+    </comp>
+    <comp ref="RGB3">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8948f04-8781-4b9c-9c51-027a63f288c7</tstamps>
+    </comp>
+    <comp ref="RGB4">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>564c9ccf-7268-4abe-8a83-5a2cf4a0bea7</tstamps>
+    </comp>
+    <comp ref="RGB5">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d70c0692-04e4-42be-bc8c-e898a7ad33f4</tstamps>
+    </comp>
+    <comp ref="RGB6">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>670c88ef-2d76-4858-91aa-26fd90fe41f5</tstamps>
+    </comp>
+    <comp ref="RGB7">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09f01e25-0111-4f34-a14a-a8bae522add1</tstamps>
+    </comp>
+    <comp ref="RGB8">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1643411e-4e61-4ed1-ac2a-fec886f7f538</tstamps>
+    </comp>
+    <comp ref="RGB9">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adf97a55-841e-4431-a8f9-117fc9628a5e</tstamps>
+    </comp>
+    <comp ref="RGB10">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a182d637-425d-4d6e-8911-c5ef56a8317a</tstamps>
+    </comp>
+    <comp ref="RGB11">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a3d8e08-801a-41ba-80ab-2d26c2661c87</tstamps>
+    </comp>
+    <comp ref="RGB12">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79f2cb5b-84b0-4f5e-aafa-c21ae67b8beb</tstamps>
+    </comp>
+    <comp ref="RGB13">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2547ad6f-f505-4057-a952-99e1f77cc736</tstamps>
+    </comp>
+    <comp ref="RGB14">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73656971-db00-4f11-baa1-64c542cd6da0</tstamps>
+    </comp>
+    <comp ref="RGB15">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52bdc74e-5517-4e2a-94b4-6294add466ee</tstamps>
+    </comp>
+    <comp ref="RGB16">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3ab60e8-41ce-4668-ac78-3825b9b12e26</tstamps>
+    </comp>
+    <comp ref="RGB17">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fca644c-3b7c-4525-adfb-1bb572b721eb</tstamps>
+    </comp>
+    <comp ref="RGB18">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cc9b1b3-74e6-4936-b6f7-51fe2bd1d698</tstamps>
+    </comp>
+    <comp ref="RGB19">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50f29346-eab1-4e65-8495-7628df0acbe6</tstamps>
+    </comp>
+    <comp ref="RGB20">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee931a84-f40b-4d62-b24a-4d3a7ccf1587</tstamps>
+    </comp>
+    <comp ref="RGB21">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb6d64b6-7230-4cba-a61b-5776c54f5ead</tstamps>
+    </comp>
+    <comp ref="RGB22">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4bae09f-14c9-4784-8b05-e11dbb301f0b</tstamps>
+    </comp>
+    <comp ref="RGB23">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c340458c-6852-4d1d-b61e-5ddcdd9e42be</tstamps>
+    </comp>
+    <comp ref="RGB24">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd12064a-9964-47de-9708-fc8b41e563b9</tstamps>
+    </comp>
+    <comp ref="RGB26">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52b66630-a8ed-4879-9756-cca4bc6b6735</tstamps>
+    </comp>
+    <comp ref="RGB27">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52801d0d-9d2b-4588-be1d-ef1b6776964a</tstamps>
+    </comp>
+    <comp ref="RGB28">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a34c43c8-cb1c-4a1e-9c2b-a3619eb7d73e</tstamps>
+    </comp>
+    <comp ref="RGB29">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a7e1ac9-730e-413b-8f64-0922061a82e0</tstamps>
+    </comp>
+    <comp ref="RGB30">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b254da0-9712-4ac6-84e8-3b52fe828178</tstamps>
+    </comp>
+    <comp ref="RGB31">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d17a13f6-fd80-446a-94b4-27da860a910d</tstamps>
+    </comp>
+    <comp ref="RGB32">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1a89502-13c2-46b1-9b2e-df7f6e7cb38c</tstamps>
+    </comp>
+    <comp ref="RGB33">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ce05db9-16db-4d43-8406-ab0eef97c7b1</tstamps>
+    </comp>
+    <comp ref="RGB34">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07376be8-6524-4167-b281-707e0c4cec38</tstamps>
+    </comp>
+    <comp ref="RGB35">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d03008cc-3dd8-4e39-99c3-0314b5bee772</tstamps>
+    </comp>
+    <comp ref="RGB36">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3183a99-70b6-4604-8454-3f3a25f94f6a</tstamps>
+    </comp>
+    <comp ref="RGB37">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bf4029e-5ac8-45e9-b116-e56084500cdc</tstamps>
+    </comp>
+    <comp ref="RGB38">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1dbba94-8981-45f9-9792-b988b5a75265</tstamps>
+    </comp>
+    <comp ref="RGB39">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56cffe91-a0ee-4dae-9d69-d3e8d9eeb088</tstamps>
+    </comp>
+    <comp ref="RGB40">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ef61cd-f8c9-4d8b-ad7f-a3a3a6af4b6a</tstamps>
+    </comp>
+    <comp ref="RGB41">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1586794b-3d79-46e2-991d-74a5bd052d0f</tstamps>
+    </comp>
+    <comp ref="RGB42">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ce95b53-b2b9-4ba0-85d1-0c05bb0e134a</tstamps>
+    </comp>
+    <comp ref="RGB43">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe2b49af-9ce3-4192-872a-4fbcd501a9e1</tstamps>
+    </comp>
+    <comp ref="RGB45">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>076c7e99-45b2-447f-a21f-ae3f1016f6ee</tstamps>
+    </comp>
+    <comp ref="RGB47">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>368bc813-ec48-42d3-b4c6-ff79a3d4c33b</tstamps>
+    </comp>
+    <comp ref="RGB49">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e06e36f-4f79-4fca-bc8c-88e76e2c46c8</tstamps>
+    </comp>
+    <comp ref="RGB50">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a8ee4ff-3185-4c8c-9726-f0bd6226ec09</tstamps>
+    </comp>
+    <comp ref="RGB51">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e117482-c07c-4b7f-9c4f-9ead4d025382</tstamps>
+    </comp>
+    <comp ref="RGB52">
+      <value>RGB_6028</value>
+      <footprint>Keeb_components:SMD6028RBGC</footprint>
+      <libsource lib="keyboard_parts" part="RGB_6028" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f58597a-04d6-4260-9390-310fa4ab3b00</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>SCREW</value>
+      <footprint>footprints:Vortex_Core_screw</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059be785f</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>SCREW</value>
+      <footprint>footprints:Vortex_Core_screw</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059be7f38</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>SCREW</value>
+      <footprint>footprints:Vortex_Core_screw</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059be81c1</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>SCREW</value>
+      <footprint>footprints:Vortex_Core_screw</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059be8459</tstamps>
+    </comp>
+    <comp ref="S5">
+      <value>SCREW</value>
+      <footprint>footprints:Vortex_Core_screw</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059be86e8</tstamps>
+    </comp>
+    <comp ref="S6">
+      <value>STANDOFF</value>
+      <footprint>footprints:vortex_standoff</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059fe8943</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega32U4</value>
+      <footprint>Keeb_components:ATMEGA32U4-MU</footprint>
+      <libsource lib="atmel" part="ATmega32U4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29ef142d-d2e4-40e3-bf47-ea7c02213e89</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>USBLC6-2SC6</value>
+      <footprint>Keeb_components:USBLC6-2SC6</footprint>
+      <libsource lib="keyboard_parts" part="USBLC6-2SC6" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c6e811b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>IS31FL3733-QF</value>
+      <footprint>Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm</footprint>
+      <datasheet>http://www.issi.com/WW/pdf/IS31FL3733.pdf</datasheet>
+      <libsource lib="Driver_LED" part="IS31FL3733-QF" description="12x16 LED matrix driver with 8-bit PWM and breathing, QFN-48"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bff4e0b7-5cd9-45ab-abb6-6180db9abcf8</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>16mhz</value>
+      <footprint>Keeb_components:Resonator_SMD_muRata_CSTNExxV-3Pin-p1.2</footprint>
+      <libsource lib="keyboard_parts" part="XTAL_GND" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="atom47-rev5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000596fbf5c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_ALT">
+      <description>Diode, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ALT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Jumper">
+      <description>Jumper, normally closed</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*</fp>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="IS31FL3733-QF">
+      <description>12x16 LED matrix driver with 8-bit PWM and breathing, QFN-48</description>
+      <docs>http://www.issi.com/WW/pdf/IS31FL3733.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*6x6mm*P0.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IS31FL3733-QF</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm</field>
+        <field name="Datasheet">http://www.issi.com/WW/pdf/IS31FL3733.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="SW1" type="input"/>
+        <pin num="3" name="SW2" type="input"/>
+        <pin num="4" name="SW3" type="input"/>
+        <pin num="5" name="PGND" type="power_in"/>
+        <pin num="6" name="SW4" type="input"/>
+        <pin num="7" name="SW5" type="input"/>
+        <pin num="8" name="SW6" type="input"/>
+        <pin num="9" name="SW7" type="input"/>
+        <pin num="10" name="SW8" type="input"/>
+        <pin num="11" name="SW9" type="input"/>
+        <pin num="12" name="PGND" type="passive"/>
+        <pin num="13" name="SW10" type="input"/>
+        <pin num="14" name="SW11" type="input"/>
+        <pin num="15" name="SW12" type="input"/>
+        <pin num="16" name="CS1" type="output"/>
+        <pin num="17" name="CS2" type="output"/>
+        <pin num="18" name="CS3" type="output"/>
+        <pin num="19" name="CS4" type="output"/>
+        <pin num="20" name="PVCC" type="power_in"/>
+        <pin num="21" name="CS5" type="output"/>
+        <pin num="22" name="CS6" type="output"/>
+        <pin num="23" name="CS7" type="output"/>
+        <pin num="24" name="CS8" type="output"/>
+        <pin num="25" name="CS9" type="output"/>
+        <pin num="26" name="CS10" type="output"/>
+        <pin num="27" name="CS11" type="output"/>
+        <pin num="28" name="CS12" type="output"/>
+        <pin num="29" name="PVCC" type="power_in"/>
+        <pin num="30" name="CS13" type="output"/>
+        <pin num="31" name="CS14" type="output"/>
+        <pin num="32" name="CS15" type="output"/>
+        <pin num="33" name="CS16" type="output"/>
+        <pin num="34" name="AGND" type="power_in"/>
+        <pin num="35" name="RSET" type="passive"/>
+        <pin num="36" name="NC" type="no_connect"/>
+        <pin num="37" name="AVCC" type="power_in"/>
+        <pin num="38" name="DVCC" type="power_in"/>
+        <pin num="39" name="VIO" type="input"/>
+        <pin num="40" name="SYNC" type="input"/>
+        <pin num="41" name="SDA" type="bidirectional"/>
+        <pin num="42" name="SCL" type="input"/>
+        <pin num="43" name="ADDR1" type="input"/>
+        <pin num="44" name="ADDR2" type="input"/>
+        <pin num="45" name="~INTB" type="open_collector"/>
+        <pin num="46" name="~SDB" type="input"/>
+        <pin num="47" name="IICRST" type="input"/>
+        <pin num="48" name="GND" type="power_in"/>
+        <pin num="49" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="atmel" part="ATmega32U4">
+      <footprints>
+        <fp>TQFP44</fp>
+        <fp>QFN</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(INT6/AIN0)PE6" type="input"/>
+        <pin num="2" name="UVCC" type="input"/>
+        <pin num="3" name="D-" type="input"/>
+        <pin num="4" name="D+" type="input"/>
+        <pin num="5" name="UGND" type="input"/>
+        <pin num="6" name="UCAP" type="input"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="(SS/PCINT0)PB0" type="input"/>
+        <pin num="9" name="(SCLK/PCINT1)PB1" type="input"/>
+        <pin num="10" name="(PDI/MOSI/PCINT2)PB2" type="input"/>
+        <pin num="11" name="(PDO/MISO/PCINT3)PB3" type="input"/>
+        <pin num="12" name="(OC0A/OC1C/~RTS~/PCINT7)PB7" type="input"/>
+        <pin num="13" name="RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="input"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="(OC0B/SCL/INT0)PD0" type="input"/>
+        <pin num="19" name="(SDA/INT1)PD1" type="input"/>
+        <pin num="20" name="(RXD/INT2)PD2" type="input"/>
+        <pin num="21" name="(TXD/INT3)PD3" type="input"/>
+        <pin num="22" name="(XCK1/~CTS~)PD5" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="(ICP2/ADC8)PD4" type="input"/>
+        <pin num="26" name="(T1/~OC4D~/ADC9)PD6" type="input"/>
+        <pin num="27" name="(T0/OC4D/ADC10)PD7" type="input"/>
+        <pin num="28" name="(ADC11/PCINT4)PB4" type="input"/>
+        <pin num="29" name="(ADC12/OC1A/~OC4B~/PCINT12)PB5" type="input"/>
+        <pin num="30" name="(ADC13/OC1B/OC4B/PCINT13)PB6" type="input"/>
+        <pin num="31" name="(OC3A/~OC4A~)PC6" type="input"/>
+        <pin num="32" name="(ICP3/CLK0/OC4A)PC7" type="input"/>
+        <pin num="33" name="(~HWB~)PE2" type="input"/>
+        <pin num="34" name="VCC" type="power_in"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="(ADC7/TDI)PF7" type="input"/>
+        <pin num="37" name="(ADC6/TDO)PF6" type="input"/>
+        <pin num="38" name="(ADC5/TMS)PF5" type="input"/>
+        <pin num="39" name="(ADC4/TCK)PF4" type="input"/>
+        <pin num="40" name="(ADC1)PF1" type="input"/>
+        <pin num="41" name="(ADC0)PF0" type="input"/>
+        <pin num="42" name="AREF" type="input"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="AVCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="RGB_6028">
+      <fields>
+        <field name="Reference">RGBD</field>
+        <field name="Value">RGB_6028</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="output"/>
+        <pin num="2" name="R" type="output"/>
+        <pin num="3" name="B" type="output"/>
+        <pin num="4" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="USBLC6-2SC6">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">USBLC6-2SC6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="power_in"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="USB_mini_micro_B">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_mini_micro_B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VUSB" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="input"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="XTAL_GND">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">XTAL_GND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>C:/Program Files/KiCad/share/kicad/library/Driver_LED.kicad_sym</uri>
+    </library>
+    <library logical="atmel">
+      <uri>G:/Libraries/atmel.kicad_sym</uri>
+    </library>
+    <library logical="keyboard_parts">
+      <uri>G:/Libraries/keyboard_parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="PVCC" pintype="power_in"/>
+      <node ref="U3" pin="29" pinfunction="PVCC" pintype="power_in"/>
+      <node ref="U3" pin="37" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U3" pin="38" pinfunction="DVCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="CS1">
+      <node ref="RGB1" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB14" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB27" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB40" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="CS1" pintype="output"/>
+    </net>
+    <net code="3" name="CS2">
+      <node ref="RGB15" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB2" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB28" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB41" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="17" pinfunction="CS2" pintype="output"/>
+    </net>
+    <net code="4" name="CS3">
+      <node ref="RGB16" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB29" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB3" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB42" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="18" pinfunction="CS3" pintype="output"/>
+    </net>
+    <net code="5" name="CS4">
+      <node ref="RGB17" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB30" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB4" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB43" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="19" pinfunction="CS4" pintype="output"/>
+    </net>
+    <net code="6" name="CS5">
+      <node ref="RGB18" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB31" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB5" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="21" pinfunction="CS5" pintype="output"/>
+    </net>
+    <net code="7" name="CS6">
+      <node ref="RGB19" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB32" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB45" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB6" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="22" pinfunction="CS6" pintype="output"/>
+    </net>
+    <net code="8" name="CS7">
+      <node ref="RGB20" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB33" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB7" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="23" pinfunction="CS7" pintype="output"/>
+    </net>
+    <net code="9" name="CS8">
+      <node ref="RGB21" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB34" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB47" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB8" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="24" pinfunction="CS8" pintype="output"/>
+    </net>
+    <net code="10" name="CS9">
+      <node ref="RGB22" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB35" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB9" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="25" pinfunction="CS9" pintype="output"/>
+    </net>
+    <net code="11" name="CS10">
+      <node ref="RGB10" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB23" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB36" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB49" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="26" pinfunction="CS10" pintype="output"/>
+    </net>
+    <net code="12" name="CS11">
+      <node ref="RGB11" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB24" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB37" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB50" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="27" pinfunction="CS11" pintype="output"/>
+    </net>
+    <net code="13" name="CS12">
+      <node ref="RGB12" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB38" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB51" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="28" pinfunction="CS12" pintype="output"/>
+    </net>
+    <net code="14" name="CS13">
+      <node ref="RGB13" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB26" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB39" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="RGB52" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="30" pinfunction="CS13" pintype="output"/>
+    </net>
+    <net code="15" name="D+">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="16" name="D-">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="6" pinfunction="SHIELD" pintype="input"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="S3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="S4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="S5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="S6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="UCAP" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="PGND" pintype="passive"/>
+      <node ref="U3" pin="34" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="43" pinfunction="ADDR1" pintype="input"/>
+      <node ref="U3" pin="44" pinfunction="ADDR2" pintype="input"/>
+      <node ref="U3" pin="48" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="PGND" pintype="power_in"/>
+      <node ref="X1" pin="3" pintype="passive"/>
+    </net>
+    <net code="18" name="MISO">
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="(PDO/MISO/PCINT3)PB3" pintype="input"/>
+    </net>
+    <net code="19" name="MOSI">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="(PDI/MOSI/PCINT2)PB2" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="UGND" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K4" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K5" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K6" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K7" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K8" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K9" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K10" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K11" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K12" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K13" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K14" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K15" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K16" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K17" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K18" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K19" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K20" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K21" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K22" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K23" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K24" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K26" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K27" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K29" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K30" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K31" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K32" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K33" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K34" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K35" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K36" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K37" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K38" pin="1" pintype="passive"/>
+      <node ref="K38-1" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K39" pin="2" pintype="passive"/>
+      <node ref="K39-1" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K40" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K41" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K42" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K43" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K45" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K47" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K49" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K50" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K51" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K52" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D+" pintype="input"/>
+    </net>
+    <net code="71" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="D-" pintype="input"/>
+    </net>
+    <net code="72" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="(~HWB~)PE2" pintype="input"/>
+    </net>
+    <net code="73" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="35" pinfunction="RSET" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="47" pinfunction="IICRST" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="46" pinfunction="~SDB" pintype="input"/>
+    </net>
+    <net code="76" name="Net-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="XTAL2" pintype="input"/>
+      <node ref="X1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="78" name="RST">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="RESET" pintype="input"/>
+    </net>
+    <net code="79" name="SCK">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="(SCLK/PCINT1)PB1" pintype="input"/>
+    </net>
+    <net code="80" name="SCL">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="(OC0B/SCL/INT0)PD0" pintype="input"/>
+      <node ref="U3" pin="42" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="81" name="SDA">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="(SDA/INT1)PD1" pintype="input"/>
+      <node ref="U3" pin="41" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="SW1">
+      <node ref="RGB1" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB10" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB11" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB12" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB13" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB2" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB3" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB4" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB5" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB6" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB7" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB8" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB9" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="SW1" pintype="input"/>
+    </net>
+    <net code="83" name="SW2">
+      <node ref="RGB1" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB10" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB11" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB12" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB13" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB2" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB3" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB4" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB5" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB6" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB7" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB8" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB9" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U3" pin="3" pinfunction="SW2" pintype="input"/>
+    </net>
+    <net code="84" name="SW3">
+      <node ref="RGB1" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB10" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB11" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB12" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB13" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB2" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB3" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB4" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB5" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB6" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB7" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB8" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB9" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="U3" pin="4" pinfunction="SW3" pintype="input"/>
+    </net>
+    <net code="85" name="SW4">
+      <node ref="RGB14" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB15" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB16" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB17" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB18" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB19" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB20" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB21" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB22" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB23" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB24" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB26" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="U3" pin="6" pinfunction="SW4" pintype="input"/>
+    </net>
+    <net code="86" name="SW5">
+      <node ref="RGB14" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB15" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB16" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB17" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB18" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB19" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB20" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB21" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB22" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB23" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB24" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB26" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U3" pin="7" pinfunction="SW5" pintype="input"/>
+    </net>
+    <net code="87" name="SW6">
+      <node ref="RGB14" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB15" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB16" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB17" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB18" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB19" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB20" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB21" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB22" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB23" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB24" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB26" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="U3" pin="8" pinfunction="SW6" pintype="input"/>
+    </net>
+    <net code="88" name="SW7">
+      <node ref="RGB27" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB28" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB29" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB30" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB31" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB32" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB33" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB34" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB35" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB36" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB37" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB38" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB39" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="U3" pin="9" pinfunction="SW7" pintype="input"/>
+    </net>
+    <net code="89" name="SW8">
+      <node ref="RGB27" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB28" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB29" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB30" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB31" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB32" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB33" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB34" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB35" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB36" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB37" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB38" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB39" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U3" pin="10" pinfunction="SW8" pintype="input"/>
+    </net>
+    <net code="90" name="SW9">
+      <node ref="RGB27" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB28" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB29" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB30" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB31" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB32" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB33" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB34" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB35" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB36" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB37" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB38" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB39" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="SW9" pintype="input"/>
+    </net>
+    <net code="91" name="SW10">
+      <node ref="RGB40" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB41" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB42" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB43" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB45" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB47" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB49" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB50" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB51" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="RGB52" pin="3" pinfunction="B" pintype="output"/>
+      <node ref="U3" pin="13" pinfunction="SW10" pintype="input"/>
+    </net>
+    <net code="92" name="SW11">
+      <node ref="RGB40" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB41" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB42" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB43" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB45" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB47" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB49" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB50" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB51" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="RGB52" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U3" pin="14" pinfunction="SW11" pintype="input"/>
+    </net>
+    <net code="93" name="SW12">
+      <node ref="RGB40" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB41" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB42" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB43" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB45" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB47" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB49" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB50" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB51" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="RGB52" pin="1" pinfunction="G" pintype="output"/>
+      <node ref="U3" pin="15" pinfunction="SW12" pintype="input"/>
+    </net>
+    <net code="94" name="VBUS">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VUSB" pintype="power_out"/>
+      <node ref="U2" pin="5" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="95" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="UVCC" pintype="input"/>
+      <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VBUS" pintype="input"/>
+      <node ref="U3" pin="39" pinfunction="VIO" pintype="input"/>
+    </net>
+    <net code="96" name="col0">
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="K14" pin="2" pintype="passive"/>
+      <node ref="K27" pin="2" pintype="passive"/>
+      <node ref="K40" pin="2" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="(ADC0)PF0" pintype="input"/>
+    </net>
+    <net code="97" name="col1">
+      <node ref="K15" pin="2" pintype="passive"/>
+      <node ref="K2" pin="2" pintype="passive"/>
+      <node ref="K41" pin="2" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="(ADC1)PF1" pintype="input"/>
+    </net>
+    <net code="98" name="col2">
+      <node ref="K16" pin="2" pintype="passive"/>
+      <node ref="K29" pin="2" pintype="passive"/>
+      <node ref="K3" pin="2" pintype="passive"/>
+      <node ref="K42" pin="2" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="(ADC4/TCK)PF4" pintype="input"/>
+    </net>
+    <net code="99" name="col3">
+      <node ref="K17" pin="2" pintype="passive"/>
+      <node ref="K30" pin="2" pintype="passive"/>
+      <node ref="K4" pin="2" pintype="passive"/>
+      <node ref="K43" pin="2" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="(ADC5/TMS)PF5" pintype="input"/>
+    </net>
+    <net code="100" name="col4">
+      <node ref="K18" pin="2" pintype="passive"/>
+      <node ref="K31" pin="2" pintype="passive"/>
+      <node ref="K5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="(ADC6/TDO)PF6" pintype="input"/>
+    </net>
+    <net code="101" name="col5">
+      <node ref="K19" pin="2" pintype="passive"/>
+      <node ref="K32" pin="2" pintype="passive"/>
+      <node ref="K45" pin="2" pintype="passive"/>
+      <node ref="K6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="(ADC7/TDI)PF7" pintype="input"/>
+    </net>
+    <net code="102" name="col6">
+      <node ref="K20" pin="2" pintype="passive"/>
+      <node ref="K33" pin="2" pintype="passive"/>
+      <node ref="K7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="(INT6/AIN0)PE6" pintype="input"/>
+    </net>
+    <net code="103" name="col7">
+      <node ref="K21" pin="2" pintype="passive"/>
+      <node ref="K34" pin="2" pintype="passive"/>
+      <node ref="K47" pin="2" pintype="passive"/>
+      <node ref="K8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="(T0/OC4D/ADC10)PD7" pintype="input"/>
+    </net>
+    <net code="104" name="col8">
+      <node ref="K22" pin="2" pintype="passive"/>
+      <node ref="K35" pin="2" pintype="passive"/>
+      <node ref="K9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="(ADC11/PCINT4)PB4" pintype="input"/>
+    </net>
+    <net code="105" name="col9">
+      <node ref="K10" pin="2" pintype="passive"/>
+      <node ref="K23" pin="2" pintype="passive"/>
+      <node ref="K36" pin="2" pintype="passive"/>
+      <node ref="K49" pin="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="(ADC12/OC1A/~OC4B~/PCINT12)PB5" pintype="input"/>
+    </net>
+    <net code="106" name="col10">
+      <node ref="K11" pin="2" pintype="passive"/>
+      <node ref="K24" pin="2" pintype="passive"/>
+      <node ref="K37" pin="2" pintype="passive"/>
+      <node ref="K50" pin="2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="(ADC13/OC1B/OC4B/PCINT13)PB6" pintype="input"/>
+    </net>
+    <net code="107" name="col11">
+      <node ref="K12" pin="2" pintype="passive"/>
+      <node ref="K38" pin="2" pintype="passive"/>
+      <node ref="K38-1" pin="2" pintype="passive"/>
+      <node ref="K51" pin="2" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="(OC3A/~OC4A~)PC6" pintype="input"/>
+    </net>
+    <net code="108" name="col12">
+      <node ref="K13" pin="1" pintype="passive"/>
+      <node ref="K26" pin="1" pintype="passive"/>
+      <node ref="K39" pin="1" pintype="passive"/>
+      <node ref="K39-1" pin="1" pintype="passive"/>
+      <node ref="K52" pin="1" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="(ICP3/CLK0/OC4A)PC7" pintype="input"/>
+    </net>
+    <net code="109" name="row3">
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="(ICP2/ADC8)PD4" pintype="input"/>
+    </net>
+    <net code="110" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="ID" pintype="input+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="(SS/PCINT0)PB0" pintype="input"/>
+    </net>
+    <net code="112" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="(OC0A/OC1C/~RTS~/PCINT7)PB7" pintype="input"/>
+    </net>
+    <net code="113" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="(RXD/INT2)PD2" pintype="input"/>
+    </net>
+    <net code="114" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="(TXD/INT3)PD3" pintype="input"/>
+    </net>
+    <net code="115" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="(XCK1/~CTS~)PD5" pintype="input"/>
+    </net>
+    <net code="116" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="(T1/~OC4D~/ADC9)PD6" pintype="input"/>
+    </net>
+    <net code="117" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="AREF" pintype="input+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U3-Pad31)">
+      <node ref="U3" pin="31" pinfunction="CS14" pintype="output+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U3-Pad32)">
+      <node ref="U3" pin="32" pinfunction="CS15" pintype="output+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U3-Pad33)">
+      <node ref="U3" pin="33" pinfunction="CS16" pintype="output+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U3-Pad36)">
+      <node ref="U3" pin="36" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U3-Pad40)">
+      <node ref="U3" pin="40" pinfunction="SYNC" pintype="input+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U3-Pad45)">
+      <node ref="U3" pin="45" pinfunction="~INTB" pintype="open_collector+no_connect"/>
+    </net>
+  </nets>
+</export>
