@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,JLCPCB Part #
+100nf capacitor,"C1,C2",C_0603,C14663
+4.7uf capacitor,C3,C_0603,C19666
+1uf capacitor,C4,C_0603,C15849
+Switching diode,"D1-24,D26,D27,D29-43,D45,D47,D49,D50-52",D_0805,C109001
+10k ohm resistor,"R3,R4",R_0603,C384294
+22 ohm resistor,"R1,R2",R_0603,C2930077
+1k ohm resistor,CR1,R_0603,C384295
+Microcontroller,U1,ATMEGA32U2,C618733
+Diode ESD,U2,USBLC6-2SC6,C5261088
+Resonator,X1,Resonator_SMD_muRata_CSTNExxV-3Pin-p1.2,C341521
+PTC Fuse,F1,R_0603,C261937
+Micro USB connector,J1,U-F-M5DD-Y-L,C91146
